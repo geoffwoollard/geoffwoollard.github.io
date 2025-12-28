@@ -2,9 +2,9 @@
 title: "InstaMap: instant-NGP for cryo-EM density maps"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-instamap
+permalink: /publication/2025-03-instamap
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-03
+date: 2025-03
 venue: 'Acta Crystallographica Section D'
 paperurl: 'https://journals.iucr.org/d/issues/2025/04/00/sor5003/index.html'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
