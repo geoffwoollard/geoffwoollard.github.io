@@ -1,0 +1,14 @@
+---
+title: "Physics aware inference for the cryo-EM inverse problem: anisotropic network model heterogeneity, global pose and microscope defocus"
+collection: publications
+category: conferences
+permalink: /publication/2022-12-03-physicsaware
+excerpt: 'We propose a parametric forward model for single particle cryo-electron microscopy (cryo-EM), and employ stochastic variational inference to infer posterior distributions of the physically interpretable latent variables. Our cryo-EM forward model accounts for the biomolecular configuration (via spatial coordinates of pseudo-atoms, in contrast with traditional voxelized representations) the global pose, the effect of the microscope (contrast transfer function’s defocus parameter). To account for conformational heterogeneity, we use the anisotropic network model (ANM). We perform experiments on synthetic data and show that the posterior of the scalar component along the lowest ANM mode and the angle of 2D in-plane pose can be jointly inferred with deep neural networks. We also perform Fourier frequency marching in the simulation and likelihood during training of the neural networks, as an annealing step.'
+date: 2022-12-03
+venue: 'NeurIPS 2022 Workshop. Machine Learning for Structural Biolog'
+paperurl: 'https://www.mlsb.io/papers_2022/Physics_aware_inference_for_the_cryo_EM_inverse_problem_anisotropic_network_model_heterogeneity_global_pose_and_microscope_defocus.pdf'
+citation: 'Geoffrey Woollard, Shayan Shekarforoush, Frank Wood, Marcus Brubaker, Khanh Dao Duc. (2022). &quot;Exploring Simulators for Particle Picking in Cryo-Electron Tomography.&quot; <i>36th Conference on Neural Information Processing Systems (NeurIPS 2022) Workshop: Machine Learning for Structural Biology Workshop</i>.'
+
+---
+
+We propose a parametric forward model for single particle cryo-electron microscopy (cryo-EM), and employ stochastic variational inference to infer posterior distributions of the physically interpretable latent variables. Our cryo-EM forward model accounts for the biomolecular configuration (via spatial coordinates of pseudo-atoms, in contrast with traditional voxelized representations) the global pose, the effect of the microscope (contrast transfer function’s defocus parameter). To account for conformational heterogeneity, we use the anisotropic network model (ANM). We perform experiments on synthetic data and show that the posterior of the scalar component along the lowest ANM mode and the angle of 2D in-plane pose can be jointly inferred with deep neural networks. We also perform Fourier frequency marching in the simulation and likelihood during training of the neural networks, as an annealing step.

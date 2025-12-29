@@ -1,0 +1,13 @@
+---
+title: "Structure and Intrinsic Disorder in Protein Autoinhibition"
+collection: publications
+category: manuscripts
+permalink: /publication/2013-01-31-autoinhibition
+excerpt: "Autoinhibition plays a significant role in the regulation of many proteins. By analyzing autoinhibited proteins, we demonstrate that these proteins are enriched in intrinsic disorder because of the properties of their inhibitory modules (IMs). A comparison of autoinhibited proteins with structured and intrinsically disordered IMs revealed that in the latter group (1) multiple phosphorylation sites are highly abundant; (2) splice variants occur in greater number than in their structured cousins; and (3) activation is often associated with changes in secondary structure in the IM. Analyses of families of autoinhibited proteins revealed that the levels of disorder in IMs can vary significantly throughout homologous proteins, whereas residues located at the interfaces between the IMs and inhibited domains are conserved. Our findings suggest that intrinsically disordered IMs provide advantages over structured ones that are likely to be exploited in the fine-tuning of the equilibrium between active and inactive states of autoinhibited proteins."
+date: 2013-01-31
+venue: "Structure"
+paperurl: "10.1016/j.str.2012.12.013" 
+citation: "Travis Trudeau, Roy Nassar, Alexander Cumberworth, Eric T.C. Wong, Geoffrey Woollard, Jörg Gsponer. (2013). &quot;Structure and Intrinsic Disorder in Protein Autoinhibition.&quot; <i>Structure</i>. 21(3),332-341."
+---
+
+Autoinhibition plays a significant role in the regulation of many proteins. By analyzing autoinhibited proteins, we demonstrate that these proteins are enriched in intrinsic disorder because of the properties of their inhibitory modules (IMs). A comparison of autoinhibited proteins with structured and intrinsically disordered IMs revealed that in the latter group (1) multiple phosphorylation sites are highly abundant; (2) splice variants occur in greater number than in their structured cousins; and (3) activation is often associated with changes in secondary structure in the IM. Analyses of families of autoinhibited proteins revealed that the levels of disorder in IMs can vary significantly throughout homologous proteins, whereas residues located at the interfaces between the IMs and inhibited domains are conserved. Our findings suggest that intrinsically disordered IMs provide advantages over structured ones that are likely to be exploited in the fine-tuning of the equilibrium between active and inactive states of autoinhibited proteins.
