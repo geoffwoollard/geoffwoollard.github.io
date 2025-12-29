@@ -12,7 +12,7 @@ I am interested in understanding life at small scales because it connects our ow
 By expressing the measurment process itself in the form of mathematical relationships, including numerical simulators, we can put scientific models in dialogue with data and refine our knowledge in a semiotic spiral. My research to date applies mostly to health and medicine, but more broadly I am interested in opportunities to use our wisdom and forsight to care for our common home and live in harmony with the cosmos.
 
 If you are curious about how I experience and engage with the world, I invite you to read some of my writing:
-* [Outlook on my graduate research opportunity](https://www.grad.ubc.ca/campus-community/meet-our-students/woollard-geoffrey)
+* ["Meet our students" interview](https://www.grad.ubc.ca/campus-community/meet-our-students/woollard-geoffrey) at the beginning of my graduate program
 * The virtue of [studiousness](https://www.virtuesatwork.ca/virtues/studiousness)
 * How we can [experience awe and wonder through a scientific habit of mind](https://inters.org/scientific-beauty-wonder-everywhere). 
 
